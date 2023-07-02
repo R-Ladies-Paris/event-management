@@ -2,7 +2,7 @@
 name: Event management from speaker invitation to post-event engagement
 about: The issue template's purpose is to help organize the management of the new
   events organized at R-Ladies Paris.
-title: ''
+title: '<event name> scheduled for <YYYY-MM-dd>'
 labels: ''
 assignees: ''
 
