@@ -10,7 +10,7 @@ assignees: ''
 
 ### Before the event:
 
-The @rladiesparis team will:
+The @r-ladies-paris team will:
 
 1. -  [ ] Identify potential speakers to invite to give a talk or facilitate a practical workshop
 2. -  [ ] Send an email to the speaker to extend the invitation
