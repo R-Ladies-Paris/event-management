@@ -8,8 +8,6 @@ assignees: ''
 
 ---
 
-We have received a request to activate a new chapter in City, Country. The following steps are needed to complete this task:
-
 ### Before the event:
 
 The @rladiesparis team will:
