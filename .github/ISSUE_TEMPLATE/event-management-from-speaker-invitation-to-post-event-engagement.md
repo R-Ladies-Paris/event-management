@@ -27,7 +27,7 @@ The @rladiesparis team will:
 13. -  [ ] Create the event on Facebook
 14. -  [ ] Share a post about the event on the Facebook event page
 15. -  [ ] Share a post about the event on the [Facebook page](https://fb.me/RLadiesParis), and the [Facebook group](https://www.facebook.com/groups/1771828013098557)
-16. -  [ ] Share a tweet about the event on [Twitter](https://twitter.com/RLadiesParis)
+16. -  [ ] Share a tweet about the event on [Mastodon](https://mastodon.social/@rladies_paris)
 17. -  [ ] Share a post about the event on [Instagram](https://www.instagram.com/rladiesparis/)
 18. -  [ ] Share a Story about the event on [Instagram](https://www.instagram.com/rladiesparis/), which will also be automatically shared on Facebook Stories
 19. -  [ ] Share the event details on the relevant Slack channels (e.g., grrr, R-Ladies, R-Ladies Community, R User Group Organizers)
