@@ -65,8 +65,8 @@ Please note that a very helpful _Scheduling & Hosting an online meetup with the 
 11. - [ ] Share a post about the event materials on [Instagram](https://www.instagram.com/rladiesparis/) 
 12. - [ ] Share a Story about the event materials on [Instagram](https://www.instagram.com/rladiesparis/), which will also be automatically shared on Facebook Stories
 13. - [ ] Comment on the posts where you shared about the event in the relevant Slack channels (e.g., grrr, R-Ladies, R-Ladies Community, R User Group Organizers)
-    - [ ] Share a post about the event materials on [WhatsApp](https://chat.whatsapp.com/C8AHJWKCnpOIVmiPM5yyHJ)
-    - [ ] Resize the event materials poster for a post to be shared on [YouTube](https://www.youtube.com/@rladiesparis/videos)
-    - [ ] Share a post about the event materials on the [Community tab](https://www.youtube.com/@rladiesparis/community)  on YouTube
-    - [ ] Update the Past Events table in the [GitHub repository](https://github.com/rladiesparis/Meetups-materials)
-    - [ ] Synchronize the [forked repository](https://github.com/R-Ladies-Paris/Meetups-materials)
+14. - [ ] Share a post about the event materials on [WhatsApp](https://chat.whatsapp.com/C8AHJWKCnpOIVmiPM5yyHJ)
+15. - [ ] Resize the event materials poster for a post to be shared on [YouTube](https://www.youtube.com/@rladiesparis/videos)
+16. - [ ] Share a post about the event materials on the [Community tab](https://www.youtube.com/@rladiesparis/community)  on YouTube
+17. - [ ] Update the Past Events table in the [GitHub repository](https://github.com/rladiesparis/Meetups-materials)
+18. - [ ] Synchronize the [forked repository](https://github.com/R-Ladies-Paris/Meetups-materials)
