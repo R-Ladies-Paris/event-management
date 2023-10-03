@@ -31,11 +31,12 @@ The @rladiesparis team will:
 17. -  [ ] Share a post about the event on [Instagram](https://www.instagram.com/rladiesparis/)
 18. -  [ ] Share a Story about the event on [Instagram](https://www.instagram.com/rladiesparis/), which will also be automatically shared on Facebook Stories
 19. -  [ ] Share the event details on the relevant Slack channels (e.g., grrr, R-Ladies, R-Ladies Community, R User Group Organizers)
-20. -  [ ] Resize the event poster to fit a post that will be shared on [YouTube](https://www.youtube.com/@rladiesparis/videos)
-21. -  [ ] Share a post about the event on the [Community tab](https://www.youtube.com/@rladiesparis/community) on YouTube
-22. -  [ ] Update the Upcoming Events table in the [GitHub repository](https://github.com/rladiesparis/Meetups-materials)
-23. -  [ ] Synchronize the [forked repository](https://github.com/R-Ladies-Paris/Meetups-materials)
-24. -  [ ] Update the introduction slides for the event
+20. -  [ ] Share the event details on [WhatsApp](https://chat.whatsapp.com/C8AHJWKCnpOIVmiPM5yyHJ)
+21. -  [ ] Resize the event poster to fit a post that will be shared on [YouTube](https://www.youtube.com/@rladiesparis/videos)
+22. -  [ ] Share a post about the event on the [Community tab](https://www.youtube.com/@rladiesparis/community) on YouTube
+23. -  [ ] Update the Upcoming Events table in the [GitHub repository](https://github.com/rladiesparis/Meetups-materials)
+24. -  [ ] Synchronize the [forked repository](https://github.com/R-Ladies-Paris/Meetups-materials)
+25. -  [ ] Update the introduction slides for the event
 
 ### During the event:
 
