@@ -18,7 +18,7 @@ The @rladiesparis team will:
 4. -  [ ] Once everything is confirmed, book a time slot through Calendly provided by [R-Ladies Global](https://rladies.org/)
 5. -  [ ] Check that you receive an email with the Zoom link
 6. -  [ ] Share the Zoom link with the speaker
-7. -  [ ] Prepare the event poster using [Canvas](https://www.canva.com/)
+7. -  [ ] Prepare the event poster using [Canva](https://www.canva.com/)
 8. -  [ ] Create a compelling description for the event
 9. -  [ ] Create the event on the [Meetup group](https://www.meetup.com/rladies-paris/)
 10. -  [ ] Share a post about the new event on the [Discussion tab](https://www.meetup.com/rladies-paris/discussions/) on Meetup
